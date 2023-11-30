@@ -1,0 +1,257 @@
+    .navbar-container {
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        margin-top: 55px;
+        display: flex;
+        margin-left: -150px;
+    }
+
+    .navbar-link {
+        margin-right: -86px;
+        text-decoration: none;
+        color: lightslategray;
+        width: 134px;
+        align-items: center;
+        border-radius: 10px;
+    }
+
+    .navbar-link:hover {
+        background-color: white;
+        color: black;
+    }
+
+    .heading {
+        margin-top: 50px;
+    }
+
+    .resume {
+        width: 40px;
+        height: 40px;
+        margin-top: 6px;
+        margin-left: 300px;
+        border-radius: 20px;
+    }
+
+    .topic {
+        margin-left: 340px;
+        margin-top: -34px;
+        font-size: larger;
+    }
+
+
+    .alltopic {
+        display: flex;
+        align-items: center;
+        background-color: #d3d3d3;
+        display: flex;
+        justify-content: space-between;
+        padding: 15px;
+        margin-left: -318px;
+        height: 17px;
+        width: 1051px;
+        border-radius: 15px;
+        align-items: right;
+        margin-top: 100px;
+    }
+
+    .Heading {
+        width: 100%;
+        height: 50%;
+        margin-top: 35px;
+    }
+
+    .call {
+        transform: scale(0.1);
+        margin-top: -117px;
+        float: right;
+        margin-right: -623px;
+    }
+
+    .callteacher {
+        margin-top: -27px;
+        float: right;
+        margin-right: -608px;
+        font-size: small;
+    }
+
+    .customer {
+        transform: scale(0.1);
+        margin-top: -130px;
+        float: right;
+        margin-right: -772px;
+    }
+
+    .customersupport {
+        margin-top: -27px;
+        float: right;
+        margin-right: -722px;
+        font-size: small;
+    }
+
+    .classroom {
+        transform: scale(0.1);
+        margin-right: -96px;
+    }
+
+    .white {
+        transform: scale(0.1);
+        margin-right: -82px;
+    }
+
+    .iconyoutube {
+        transform: scale(0.1);
+        margin-right: -102px;
+        color: white;
+        background-color: white;
+        border-radius: 15px;
+    }
+
+    .slide {
+        transform: scale(0.1);
+        margin-right: -101px;
+    }
+
+    .document {
+        transform: scale(0.1);
+        margin-right: -104px;
+    }
+
+    .doccam {
+        transform: scale(0.1);
+        margin-right: -96px;
+    }
+
+    .leftmenu {
+        position: fixed;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 280px 10px;
+        flex-direction: column;
+        display: flex;
+        background-color: lightgrey;
+
+
+
+    }
+
+    .wsym,
+    .clibutton,
+    .bell,
+    .clock,
+    .correct,
+    .eye,
+    .person,
+    .horizontal {
+        max-width: 100%;
+        margin-bottom: 35px;
+        align-items: center;
+
+    }
+
+    .navbar-linkhigh {
+        background-color: white;
+        border-radius: 20px;
+    }
+
+    .main {
+        display: flex;
+        height: 100%;
+        width: 100%;
+    }
+
+    .IMAGE1 {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -66px;
+        margin-top: -60px;
+        float: left;
+    }
+
+    .IMAGE2 {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -67px;
+        margin-top: 62px;
+        float: left;
+    }
+
+    .YOUTUBE {
+        margin-top: 167px;
+        margin-left: -877px;
+        height: 410px;
+        width: 829px;
+    }
+
+    .cam {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -67px;
+        margin-top: 172px;
+        float: left;
+    }
+
+    .mic {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -10px;
+        margin-top: 172px;
+        float: left;
+    }
+
+    .chat {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -4px;
+        margin-top: 172px;
+        float: left;
+    }
+
+    .share {
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: 43px;
+        margin-top: 174px;
+        float: left;
+    }
+
+    .chat {
+        position: fixed;
+        left: 222px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -67px;
+        margin-top: 234px;
+        float: left;
+    }
+
+    .leave {
+
+        position: fixed;
+        left: 219px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: -16px;
+        margin-top: 234px;
+        float: left;
+    }
+
+    .leftmenu button {
+        background: none;
+        border: none;
+        padding: 0;
+
+    }
